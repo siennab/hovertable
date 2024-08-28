@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-    fetch('/data.json')
+     fetch('https://raw.githubusercontent.com/siennab/hovertable/main/data.json')
         .then(response => response.json())
         .then(data => populateTable(data))
         .catch(error => console.error('Error loading data:', error));
