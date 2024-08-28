@@ -1,0 +1,26 @@
+[
+    {
+        "name": "John Doe",
+        "age": 30,
+        "email": "john.doe@example.com",
+        "phone": "123-456-7890"
+    },
+    {
+        "name": "Jane Smith",
+        "age": 28,
+        "email": "jane.smith@example.com",
+        "phone": "987-654-3210"
+    },
+    {
+        "name": "Bob Johnson",
+        "age": 35,
+        "email": "bob.johnson@example.com",
+        "phone": "456-789-0123"
+    },
+    {
+        "name": "Alice Brown",
+        "age": 32,
+        "email": "alice.brown@example.com",
+        "phone": "789-012-3456"
+    }
+]
